@@ -1,1 +1,1 @@
-# kltk: Kinyarwanda and Kirundi languages toolkit
+# KLTK: Kinyarwanda and Kirundi languages toolkit
