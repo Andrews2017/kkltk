@@ -1,0 +1,1 @@
+from kkltk.kin_kir_stopwords import stopwords
