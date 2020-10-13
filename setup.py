@@ -8,7 +8,7 @@ setup(
   author = 'Rubungo Andre Niyongabo',
   author_email = 'niyongabor.andre@gmail.com',
   url = 'https://sites.google.com/view/niyongabo-rubungo-andre/home',
-  download_url = 'https://github.com/Andrews2017/kltk/archive/v1.0.tar.gz',
+  download_url = 'https://github.com/Andrews2017/kkltk/archive/v1.0.tar.gz',
   keywords = ['Low-resource languages', 'natural language processing', 'computational linguistics', 'Kinyarwanda', 'Kirundi', 'text preprocessing', 'stopwords', 'tokenizing'],   # Keywords that define kkltk package
   install_requires=[
       ],
