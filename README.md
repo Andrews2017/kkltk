@@ -7,3 +7,15 @@ For more details information on how these stopwords were obtained, please refer 
 ```sh
 pip install kkltk==1.0
 ```
+
+# Usage
+## Stopwords
+```sh
+from kkltk.kin_kir_stopwords import stopwords
+
+# Kinyarwanda
+stopset_kin = stopwords.words('kinyarwanda')
+
+# Kirundi
+stopset_kir = stopwords.words('kirundi')
+```
