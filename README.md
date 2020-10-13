@@ -21,3 +21,5 @@ stopset_kin = stopwords.words('kinyarwanda')
 # Kirundi
 stopset_kir = stopwords.words('kirundi')
 ```
+
+# Contributing
