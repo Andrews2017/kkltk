@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 # KKLTK: Kinyarwanda and Kirundi Languages ToolKit
 KKLTK is a Python package for Kinyarwanda and Kirundi languages processing. KKLTK currently provides the sets of stopwords for both languages and other preprocessing tools such as Kinyarwanda and Kirundi tokenizers will be added soon. KKLTK requires Python 3.0, 3.5, 3.6, 3.7, or 3.8.
 
