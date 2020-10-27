@@ -22,4 +22,4 @@ stopset_kir = stopwords.words('kirundi')
 ```
 
 # Contributing
-KKLTK is the beginning step of putting under-represented languages on the NLP map. The provided stopwords lists on both languages are still growing. Please [contact me](https://sites.google.com/view/niyongabo-rubungo-andre/contact) for any contribution you may want to provide.
+KKLTK is the beginning step of putting under-represented languages on the NLP map. The provided stopwords lists on both languages are still growing. Please, kindly [reach out to me](https://sites.google.com/view/niyongabo-rubungo-andre/contact) for any contribution you may wish to provide.
